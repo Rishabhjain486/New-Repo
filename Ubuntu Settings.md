@@ -37,7 +37,7 @@ export PS1="\[\e[91m\]\W \[\e[36m\[\e[1m\]\$(parse_git_branch)\[\e[00m\]: "
 
 ## CODE TO CHECK THE TEMP OF RASPBERRY PI ON UBUNTU:
 
-Create a .c file with the following code:
+1. Create a `.c` file with the following code:
 ```
 #include <stdio.h>
 
@@ -51,10 +51,10 @@ printf(">>CPU Temp: %.2f C\n", temp / 1000.0);
 }
 ```
 
-Compile the code with:
+2. Compile the code with:
 `gcc temp.c -o temp`
 
-Copy to directory in your path:
+3. Copy to directory in your path:
 `sudo mv ./temp /usr/local/bin/`
 
-Now run the command `temp` from anywhere 
+4. Now run the command `temp` from anywhere 
