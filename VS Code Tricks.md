@@ -10,7 +10,9 @@
 
 4. If you want go to next line when cursor is in middle of a word/ sentence: `ctrl + Enter` or `cmd + Enter`
 
-5. 
+5. To copy the whole line: `shift + alt + down arrow` or `shift + opt + down arrow`
+
+6. When we press the left/ right arrow key, the cursor moves letter to letter. If we want to go faster, we can move word to word by: `ctrl + left/ right arrow key` or `opt + left/ right arrow key`
 
 
 ## HTML specific shortcuts:
