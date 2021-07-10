@@ -14,6 +14,12 @@
 
 6. When we press the left/ right arrow key, the cursor moves letter to letter. If we want to go faster, we can move word to word by: `ctrl + left/ right arrow key` or `opt + left/ right arrow key`
 
+7. Jumping to the beginning or the end of the line: `home` & `end` keys on windows, `cmd + left/ right arrows` on mac
+
+8. To move a text line to a different line number: hold `alt/ opt + up/ down arrows`
+
+9. 
+
 
 ## HTML specific shortcuts:
 
